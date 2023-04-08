@@ -12,6 +12,8 @@ public class Basic {
 		ap[5] = ("an");
 		ap[6] = ("am");
 		ap[7] = ("ax");
+		ap[9] = ("pr"); // manager did this change
+		
 		
 		//System.out.println(ap[3]); {
 		
